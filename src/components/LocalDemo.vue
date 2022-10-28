@@ -1,7 +1,7 @@
 <template>
     <div class="box">
         <div class="main">
-            <button class="get_btn" @click="getList">不好</button>
+            <button class="get_btn" @click="getList">不啊啊啊啊好</button>
         </div>
     </div>
 
